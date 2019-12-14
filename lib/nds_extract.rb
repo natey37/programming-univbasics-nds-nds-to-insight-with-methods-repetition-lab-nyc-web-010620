@@ -26,6 +26,7 @@ end
 
 def list_of_directors(source)
   directors = []
+  index 
   # Write this implementation
 end
 
