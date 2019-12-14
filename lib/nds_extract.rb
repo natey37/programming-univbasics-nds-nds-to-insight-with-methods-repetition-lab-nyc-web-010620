@@ -29,6 +29,8 @@ def list_of_directors(source)
   index = 0 
   while index < source.count do 
     directors << source[index][:name]
+  end 
+  directors
   # Write this implementation
 end
 
