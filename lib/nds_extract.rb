@@ -31,7 +31,7 @@ def list_of_directors(source)
     directors << source[index][:name]
     index += 1 
   end 
-  puts directors
+  directors
   # Write this implementation
 end
 
